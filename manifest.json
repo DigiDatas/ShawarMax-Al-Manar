@@ -1,8 +1,8 @@
 {
   "name": "ShawarMax Menu",
   "short_name": "ShawarMax",
-  "start_url": "/ShawarMax-Menu/index.html",
-  "scope": "/ShawarMax-Menu/",
+  "start_url": "/ShawarMax-Al-Manar/index.html",
+  "scope": "/ShawarMax-Al-Manar/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#ef4444",
